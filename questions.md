@@ -10,6 +10,7 @@ console.log(opStr);
 
 
 // METHOD 2
+<code>
 let opStr2 = ""
 for(let i = 0; i < str.length - 1; i++) {
     if(i == 0) {
@@ -22,4 +23,5 @@ for(let i = 0; i < str.length - 1; i++) {
     }
 }
 console.log(opStr2)
+</code>
 
