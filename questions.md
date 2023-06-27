@@ -5,9 +5,10 @@
 const str = "wef e   ewfwe this is saMple teXt";
  
  // METHOD 1
+ <code>
 const opStr = str.split(" ").map((txt, i) =>  (txt.slice(0,1).toUpperCase() + txt.slice(1).toLowerCase())).join(" ") ;
 console.log(opStr);
-
+</code>
 
 // METHOD 2
 <code>
