@@ -1,8 +1,11 @@
 
-#1 Captialize First Letter In A Sentence
+#1 Capitalize First Letter In A Sentence
 
-// RESULT
-const str = "wef e   ewfwe this is saMple teXt";
+
+ <code>
+// INPUT STRING
+  const str = "wef e   ewfwe this is saMple teXt";
+ </code>
  
  // METHOD 1
  <code>
